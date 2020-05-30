@@ -1,0 +1,23 @@
+{
+  "name": "express-starter",
+  "version": "1.0.0",
+  "description": "starter for nodejs using vanilla js and express framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend",
+    "REST",
+    "API",
+    "NodeJS",
+    "Express"
+  ],
+  "author": "akash tomar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  }
+}
